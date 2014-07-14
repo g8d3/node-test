@@ -1,0 +1,13 @@
+{
+  "dependencies":{
+    "express": "4.1.1",
+    "connect-flash": "*",
+    "express-session": "*",
+    "express-livereload": "*",
+    "consolidate": "*",
+    "mustache": "*"
+  },
+  "devDependencies":{
+    "node-inspector": "*"
+  }
+}
