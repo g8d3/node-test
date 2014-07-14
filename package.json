@@ -6,8 +6,5 @@
     "express-livereload": "*",
     "consolidate": "*",
     "mustache": "*"
-  },
-  "devDependencies":{
-    "node-inspector": "*"
   }
 }

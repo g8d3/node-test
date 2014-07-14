@@ -4,20 +4,18 @@ var session    = require('express-session');
 var livereload = require('express-livereload');
 var engines    = require('consolidate');
 
+livereload(app);
 var app = express();
 app.use(session({secret: 'keyboard cat', saveUninitialized: true,
                  resave: true}))
 app.use(flash());
 
-livereload(app);
 
 app.set('views', __dirname + '/views');
 app.engine('html', engines.mustache);
 app.set('view engine', 'html');
 
 app.get('/', function(req, res){
-
-  console.log('asdq')
   res.render('index.html', {flash: req.flash()});
 });
 
