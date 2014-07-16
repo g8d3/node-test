@@ -5,6 +5,7 @@
     "express-session": "*",
     "express-livereload": "*",
     "consolidate": "*",
-    "mustache": "*"
+    "mustache": "*",
+    "debug": "*"
   }
 }
