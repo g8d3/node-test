@@ -38,3 +38,4 @@ In application folder:
 1. You start a server with `node-inspector &`, the `&` makes it to run in background in Linux.
 1. `nodemon --debug-brk index.js` or `nodemon --debug index.js` [video](http://youtu.be/03qGA-GJXjI) explains difference.
 1. Open debugger console at [http://127.0.0.1:8080/debug?port=5858](http://127.0.0.1:8080/debug?port=5858).
+1. Angular basic example should be running at [http://localhost:3000](http://localhost:3000).
