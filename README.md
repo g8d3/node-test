@@ -12,7 +12,7 @@ I tried several debuggers:
 
 1. Built in node debugger
 1. Express.js colored debugger
-1. node-inspector
+1. [node-inspector](https://github.com/node-inspector/node-inspector)
 
 So far the best on and easy to learn and use is node-inspector, to learn how to use it I found [this](http://youtu.be/03qGA-GJXjI) to be the best 15 minutes video.
 
