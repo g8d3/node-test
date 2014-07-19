@@ -13,7 +13,7 @@ I tried several debuggers:
 1. Express.js colored debugger
 1. node-inspector
 
-So far the best on and easy to learn and use is node-inspector, to learn how to use I find [this](http://youtu.be/03qGA-GJXjI) I found this to be the best 15 minutes I used to learn how to use node-inspector.
+So far the best on and easy to learn and use is node-inspector, to learn how to use it I found [this](http://youtu.be/03qGA-GJXjI) to be the best 15 minutes video.
 
 In short, debugger lets you inspect variables when a request is done or when server starts.
 
