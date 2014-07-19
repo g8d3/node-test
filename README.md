@@ -4,6 +4,7 @@ This is a sample of a development environment to:
 
 1. and debug express.js applications
 1. auto reload files when they change
+1. make a simple [Angular](angularjs.org) page to work
 
 ## Debuggers
 
