@@ -19,7 +19,7 @@ In short, debugger lets you inspect variables when a request is done or when ser
 
 ## Auto reload
 
-You also could want the files to be reloaded as you change them, for that purpose I used `nodemon`.
+You also could want the files to be reloaded as you change them, for that purpose I used [nodemon](http://nodemon.io/).
 
 # Installation
 
